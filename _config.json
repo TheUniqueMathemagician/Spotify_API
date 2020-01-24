@@ -1,0 +1,15 @@
+{
+    "application_adress": "localhost",
+    "application_port": "8000",
+    "spotify_redirect": "/callback",
+    "spotify_state": "RNG_Key",
+    "spotify_scopes": [
+        "user-read-private",
+        "user-read-email"
+    ],
+    "credentials": {
+        "client_ID": "***********************************",
+        "client_secret": "*******************************"
+    },
+    "token_expiration_anticipate": 60000
+}
